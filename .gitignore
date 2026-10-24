@@ -14,3 +14,5 @@ __v0_jsx-dev-runtime.ts
 node_modules
 .next/
 .DS_Store
+# photobooth sessions shared to phones (stored on the kiosk only)
+.kiosk-shares/
